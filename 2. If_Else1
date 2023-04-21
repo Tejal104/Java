@@ -1,0 +1,15 @@
+
+public class If_else1 {
+
+	public static void main(String[] args) {
+		
+		int age = 30;
+		if(age > 18) {
+		   System.out.println("Adult");
+		} else {
+		   System.out.println("Not Aadult");
+		}
+
+	}
+
+}
